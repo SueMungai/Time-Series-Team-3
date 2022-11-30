@@ -5,7 +5,7 @@
 ### Table of contents 
 - [Project goal](#project-goal)
 - [Business Understanding](#business-understanding)
-- [Data preparation](#data preparation)
+- [Data preparation](#data-preparation)
 - [Modelling](#modelling)
 - [Evaluation](#evaluations)
 
@@ -48,10 +48,28 @@ Within our data preparation phase, we performed the following tasks:
     
 ---------
 # Modeling
-We build a couple of models using different featuers in our dataset to try  predicting whether an individual will go for H1N1 vaccine or Seasonal Flu Vaccines.The models have different levels of  accuracy.   
+We build a time series models using different featuers in our dataset to predict five best locations to invest in based on their return of investment (ROI).
+The models include.  
+
+        - Auto Regressive model(AR)
+        
+        - moving Average model(MA)
+        
+        - ARMA model
+        
+        - ARIMA model
+        
+        - SARIMA model
 
 ---------
 
 # Evaluation
 
 ---------
+# Conclusion
+
+---
+# Recommmendations
+
+---
+ 
