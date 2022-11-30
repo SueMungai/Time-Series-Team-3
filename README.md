@@ -67,8 +67,20 @@ The models include.
 
 ---------
 # Conclusion
+There are several discrepancies within the housing investment sector. Investors would rather invest in some cities than others, which is evident from the varying number of properties in the different cities.
+
+The top three cities with the highest median house prices are Atherton (California), Palm Beach(Florida), and Snowmass Village (Colorado).
+
+The cities with the highest ROI in 22 years are New York, Georgia state, New York, and Hawaii.
+
+Houses in New York have the highest home values, followed by California.
+
+The prices of houses also differ concerning the city ranks. Homes in highly-ranked cities have high median prices.
+
+Other factors, such as location also dictate changes in the price of house prices. For instance, houses in the coastal regions have higher median prices.
 
 ---
+
 # Recommmendations
 
 ---
