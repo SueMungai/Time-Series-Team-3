@@ -19,6 +19,7 @@ The zillow  Dataset contains a wealth of information about the RegionName, City 
 Real estate is a lucrative business in any economy due to various factors including the rate of population increase in most countries. Over the last decade, the housing market in the United States has seen every end of the housing spectrum. Real estate market trends peaked more than 10 years ago during the Great Recession. For the most of this year, competition propelled what appeared to be the hottest housing market prices in the industry's history. Buyers were forced to compete with many offers on each home, tipping the scales heavily in favor of sellers. Due to a supply and demand imbalance, homeowners were given an edge. It should be remembered, however, that the approaching prospect of a recession, along with the greatest inflation rate recorded in the US housing market in over four decades, has compelled the Federal Reserve to take extreme action. To battle inflation and slow the economy, the Fed has implemented a number of rate rises, the most significant of which would more than quadruple mortgage rates by 2022. 
 
 ### Business Problem 
+
 Real Estate can be a very risky business but can be lucrative when the risks are understood. The risks can be bad locations, the unpredictable nature of the market et cetera.  Horizon Limited is looking to invest in real estate in the United States and need us to identify the locations that are the best to invest in and forecast the nature of the market. 
 ------
 
